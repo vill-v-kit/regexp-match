@@ -16,7 +16,7 @@
   "homepage": "https://vill-v-kit.github.io/vill-v/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vill-v-kit/vill-v.git"
+    "url": "git+https://github.com/vill-v-kit/regexp-match.git"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
